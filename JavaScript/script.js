@@ -1,2 +1,2 @@
-var zero = 0;
+var zero = 0; 
 console.log(zero);
