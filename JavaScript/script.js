@@ -1,2 +1,2 @@
-var a = 0;
-console.log(a);
+var zero = 0; 
+console.log(zero);
