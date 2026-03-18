@@ -1,2 +1,1 @@
-// Printing Hello World 
-console.log("Hello World!!");
+ alert("HelloWorld!");
