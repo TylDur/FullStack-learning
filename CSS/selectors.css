@@ -4,12 +4,14 @@ body{
     background-color: grey;
     color: black;
 }
+
 /* Class Selector(.) */
 
 .class_container{
     background-color: seashell;
     color: blue;
 }
+
 /* Id Selector(#) */
 
 #id_container{
