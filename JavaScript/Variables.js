@@ -13,6 +13,7 @@ alert(age);
 
 age = 100; 
 alert(age);
+
 age = undefined;
 alert(age);
 
@@ -23,5 +24,6 @@ const bigInt = 1234567890123456789012345678901234567890n;
 alert(bigInt);
 
 
-
+let gender = prompt("Enter your Gender " , "Male");
+alert(gender);
 
