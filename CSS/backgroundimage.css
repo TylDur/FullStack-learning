@@ -7,7 +7,7 @@ body{
     /* Makes the image cover the entire background area */
     background-size: cover; 
     
-    /* Keeps the image centered */
+    /* Keeps the image centered */ 
     background-position: center; 
     
     /* Keeps the image fixed so it doesn't move when you scroll */
